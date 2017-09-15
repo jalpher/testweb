@@ -1,0 +1,54 @@
+/* 
+body {
+    font-size: 36px;
+    font-family: "Courier";
+    color: green;
+     margin: 100px;
+    padding: 40px;
+     border-style: dashed;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: green;
+}
+*/
+
+#top p {
+    font-size: 36px;
+    font-family: "Courier";
+    color: orange;
+     margin: 100px;
+    padding: 40px;
+     border-style: dashed;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: orange;
+}
+
+
+#hash {
+    font-size: 36px;
+    font-family: "Courier";
+    color: red;
+     margin: 100px;
+    padding: 40px;
+     border-style: dashed;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: red;
+}
+
+.dotted {
+    font-size: 36px;
+    font-family: "Courier";
+    color: blue;
+     margin: 100px;
+    padding: 40px;
+     border-style: dashed;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: blue;
+}
